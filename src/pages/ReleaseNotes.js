@@ -12,7 +12,7 @@ const ReleaseNotes = () => {
           title="Release Notes"          
         >
             <h4>
-            Versão:1.0.0
+            Versão:1.0.2
             </h4>     
             <p>
             Versão Inicial

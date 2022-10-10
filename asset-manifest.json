@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/tapstore/static/css/main.a949280f.chunk.css",
+    "main.js": "/tapstore/static/js/main.c615589f.chunk.js",
+    "main.js.map": "/tapstore/static/js/main.c615589f.chunk.js.map",
+    "runtime-main.js": "/tapstore/static/js/runtime-main.f2f15af6.js",
+    "runtime-main.js.map": "/tapstore/static/js/runtime-main.f2f15af6.js.map",
+    "static/js/2.739abce8.chunk.js": "/tapstore/static/js/2.739abce8.chunk.js",
+    "static/js/2.739abce8.chunk.js.map": "/tapstore/static/js/2.739abce8.chunk.js.map",
+    "static/js/3.99c0ede3.chunk.js": "/tapstore/static/js/3.99c0ede3.chunk.js",
+    "static/js/3.99c0ede3.chunk.js.map": "/tapstore/static/js/3.99c0ede3.chunk.js.map",
+    "static/js/4.97dc0e58.chunk.js": "/tapstore/static/js/4.97dc0e58.chunk.js",
+    "static/js/4.97dc0e58.chunk.js.map": "/tapstore/static/js/4.97dc0e58.chunk.js.map",
+    "static/js/5.37e49277.chunk.js": "/tapstore/static/js/5.37e49277.chunk.js",
+    "static/js/5.37e49277.chunk.js.map": "/tapstore/static/js/5.37e49277.chunk.js.map",
+    "static/js/6.4effb624.chunk.js": "/tapstore/static/js/6.4effb624.chunk.js",
+    "static/js/6.4effb624.chunk.js.map": "/tapstore/static/js/6.4effb624.chunk.js.map",
+    "static/js/7.acbe840c.chunk.js": "/tapstore/static/js/7.acbe840c.chunk.js",
+    "static/js/7.acbe840c.chunk.js.map": "/tapstore/static/js/7.acbe840c.chunk.js.map",
+    "static/js/8.a1e967ae.chunk.js": "/tapstore/static/js/8.a1e967ae.chunk.js",
+    "static/js/8.a1e967ae.chunk.js.map": "/tapstore/static/js/8.a1e967ae.chunk.js.map",
+    "static/js/9.98a44f70.chunk.js": "/tapstore/static/js/9.98a44f70.chunk.js",
+    "static/js/9.98a44f70.chunk.js.map": "/tapstore/static/js/9.98a44f70.chunk.js.map",
+    "index.html": "/tapstore/index.html",
+    "static/css/main.a949280f.chunk.css.map": "/tapstore/static/css/main.a949280f.chunk.css.map",
+    "static/js/2.739abce8.chunk.js.LICENSE.txt": "/tapstore/static/js/2.739abce8.chunk.js.LICENSE.txt",
+    "static/media/api.dc92709c.jpg": "/tapstore/static/media/api.dc92709c.jpg",
+    "static/media/style.scss": "/tapstore/static/media/bootstrap-icons.ea98e12d.woff2",
+    "static/media/demo.10f762c9.jpg": "/tapstore/static/media/demo.10f762c9.jpg",
+    "static/media/doc.7a53144d.jpg": "/tapstore/static/media/doc.7a53144d.jpg",
+    "static/media/logo_branca.f48c4d8c.svg": "/tapstore/static/media/logo_branca.f48c4d8c.svg",
+    "static/media/release.2d7ebbf3.jpg": "/tapstore/static/media/release.2d7ebbf3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2f15af6.js",
+    "static/js/2.739abce8.chunk.js",
+    "static/css/main.a949280f.chunk.css",
+    "static/js/main.c615589f.chunk.js"
+  ]
+}

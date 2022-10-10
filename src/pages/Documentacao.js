@@ -6,7 +6,7 @@ const Documentacao = () => {
   
   return (
     <>
-      <Iframe url="https://phoebus.gitlab.io/tapstore-api/docs/"            
+      <Iframe url="https://paystore.github.io/tapstore/docs/"            
             width="100%"
             id="myId"
             className="myClassname"

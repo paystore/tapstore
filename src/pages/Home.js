@@ -13,6 +13,7 @@ const BlogData = [
     description:
       "Confira a documentação completa da nossa api.",
     btnbg: "primary",
+    route: "/documentacao"
   },
   {
     image: bgApi,
@@ -21,6 +22,7 @@ const BlogData = [
     description:
       "Realize o download dos nossos AAR da nossa API.",
     btnbg: "primary",
+    route: "/api"
   },
   {
     image: bgDemo,
@@ -29,6 +31,7 @@ const BlogData = [
     description:
       "Confira o nossa aplicação demo e veriques todos os recursos disponíveis",
     btnbg: "primary",
+    route: "/demo"
   },  
   {
     image: bgRelease,
@@ -37,6 +40,7 @@ const BlogData = [
     description:
       "Confira o que tem disponivel em cada versão",
     btnbg: "primary",
+    route: "/release"
   },  
 ];
 
@@ -55,6 +59,7 @@ const Starter = () => {
               subtitle={blg.subtitle}
               text={blg.description}
               color={blg.btnbg}
+              route={blg.route}
             />
           </Col>
         ))}

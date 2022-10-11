@@ -6,8 +6,10 @@ import {
   CardTitle,
   Button,
 } from "reactstrap";
+import { useNavigate } from "react-router-dom";
 
 const Blog = (props) => {
+  let navigate = useNavigate();
   return (
     <Card>
       <CardImg height={130} width={260} alt="Card image cap" src={props.image} />
@@ -18,7 +20,7 @@ const Blog = (props) => {
           <CardText className="mt-3">{props.text}</CardText>
           </div>
           <div style={{height:100}}>
-          <Button color={props.color}>Acesse aqui</Button>
+          <Button color={props.color} onClick={() => navigate(props.route)}>Acesse aqui</Button>
           </div>
         </div>
       </CardBody>

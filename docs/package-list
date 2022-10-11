@@ -1,7 +1,20 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
 
-module:childProjectA
-demo
-module:childProjectB
-demo
+module:core
+br.com.phoebus.payments.core.card
+br.com.phoebus.payments.core.financial
+br.com.phoebus.payments.core.payment
+br.com.phoebus.payments.core.pin
+br.com.phoebus.payments.core.product
+br.com.phoebus.payments.core.prototype
+br.com.phoebus.payments.core.rest
+br.com.phoebus.payments.core.types
+br.com.phoebus.payments.core.util
+br.com.phoebus.payments.core.workingkey
+module:tef
+br.com.phoebus.payments.tef
+br.com.phoebus.payments.tef.enumeration
+br.com.phoebus.payments.tef.exception
+br.com.phoebus.payments.tef.request
+br.com.phoebus.payments.tef.response

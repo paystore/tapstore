@@ -12,7 +12,7 @@ const Blog = (props) => {
   let navigate = useNavigate();
   return (
     <Card>
-      <CardImg height={130} width={260} alt="Card image cap" src={props.image} />
+      <CardImg height={168} width={300} alt="Card image cap" src={props.image} />
       <CardBody style={{minHeight: 280}} className="p-4">
         <div style={{height: 250}} className="d-flex flex-column justify-content-between">
           <div>

@@ -9,23 +9,37 @@ const Demo = () => {
     <Row>
       <Col>
         <ComponentCard
-          title="Aplicação Demo"
-          subtitle={
-            <p>
-              Aplicação demo
-            </p>
-          }
+          title="Aplicação Demo"          
         >
           
           <Row>
             <Col lg="8">
               <div className="mt-3">
+                <h5>                                             
+                  Projeto Demo em Kotlin
+                </h5>
                 <Button
                   color="primary"
-                  href="https://www.wrappixel.com/templates/xtreme-react-redux-admin/?ref=33"
+                  href="https://github.com/paystore/tapstore-demo-kotlin"
                   target="_blank"
                 >
-                  Baixar
+                  Ir para o Github
+                </Button>
+              </div>
+            </Col>
+          </Row>
+          <Row>
+            <Col lg="8">
+              <div className="mt-3">
+                <h5>                                             
+                  Projeto Demo em Java
+                </h5>
+                <Button
+                  color="primary"
+                  href="https://github.com/paystore/tapstore-demo-java"
+                  target="_blank"
+                >
+                  Ir para o Github
                 </Button>
               </div>
             </Col>
